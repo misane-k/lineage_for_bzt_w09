@@ -22,6 +22,6 @@
 # 特别感谢
 - [mashed-potatoes](https://github.com/mashed-potatoes/PotatoNV) 低版本海思芯片解bl锁方法
 - [xtuiflyzhkt](https://github.com/xtuiflyzhkt/iflytek_cyzhkt_cr) C5解锁方法
-- [氢氧化氢氢氢氢氢氢]([https://markdown.com.cn](https://space.bilibili.com/673804198)) 提供C5底包
+- [氢氧化氢氢氢氢氢氢]((https://space.bilibili.com/673804198) 提供C5底包
 - [huawei](https://download-c1.huawei.com/download/downloadCenter?downloadId=C0A375675F29E492D4DEDB28D30DB6B6) 内核源代码
 - [LineageOS](https://github.com/LineageOS) [phhusson](https://github.com/phhusson/treble_experimentations) 让自定义安卓系统成为可能

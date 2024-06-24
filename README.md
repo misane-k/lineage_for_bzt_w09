@@ -16,8 +16,8 @@
 
 # TODO
 - 自定义机型、设备信息等
-- 添加华为的MDM能力，这样就能正常使用并更新智慧课堂软件
-- 有人需要的话，再把源码发出来吧，毕竟几乎没改
+- 添加不同设备的MDM能力，正常使用并更新智慧课堂软件
+- 公布源码
 
 # 特别感谢
 - [mashed-potatoes](https://github.com/mashed-potatoes/PotatoNV) 低版本海思芯片解bl锁方法
